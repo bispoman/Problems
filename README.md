@@ -23,4 +23,5 @@ Problema 3 - Matrix Diagonals
 Como rodar:
 
   Todos os arquivos foram escritos usando python 2.7
+  
   Os arquivos devem ser chamados usando o comando: Python {nome_do_arquivo}
